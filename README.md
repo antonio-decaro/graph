@@ -10,3 +10,5 @@ The module core.py is essentially the core of the package, it contains:
   - Node class, that can be extended by other users.
 
 The module function.py contains different utility functions like shortest path, checking dag, vertex cover and so on.
+
+Look at the Wiki page for additional info.
